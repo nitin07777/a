@@ -3,7 +3,7 @@
 <div style="text-align: center;">
 <h1>INDIA</h1>
 <body bgcolor="lightgrey">
-<img src="C:\Users\Dell\Downloads\WT\flag.webp"width="400"height="250"alt="Centered Image">
+<img src="flag.webp"width="400"height="250"alt="Centered Image">
 <p><b>A flag is a symbol that represents a country, organisation or idea. it is usually made of 
 cloth and has a specific design of colors, shapes and symbols that hold deep meaning. every nation
 has it's own unique flag that reflect it's history, culture and values. for example, the indian
@@ -18,7 +18,7 @@ sacrifices made by freedom fighters. the flag also unites people of different cu
 backgrounds under the identity. in this way, a flag is not just a piece of fabric it is a symbol
 of unity, pride and national identity.</b></p><br>
 <audio controls>
-<source src="C:\Users\Dell\Downloads\WT\Des Rangila Fanaa 128 Kbps.mp3"type="audio/mp3">
+<source src="Des Rangila Fanaa 128 Kbps.mp3"type="audio/mp3">
 </audio>
 </body>
 </div>
